@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg-info/
+.eggs/
+*.egg
+
+# VS Code
+.vscode/
+
+# Environments
+.env
+.venv
+venv/
+ENV/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Git
+.git/
+.gitmodules
+
+# Others
+*.log
+*.sqlite3
+*.db
+*.bak
+*.swp
+*.swo
+*.tmp
+*.orig
+*.old
+*.idea/
+*.iml
